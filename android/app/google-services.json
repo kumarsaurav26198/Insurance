@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307017618926",
+    "project_id": "incuranceapp",
+    "storage_bucket": "incuranceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307017618926:android:dfcb2c602890831d3aeaff",
+        "android_client_info": {
+          "package_name": "com.insurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307017618926-sdnorkt8q74sai06lt4gairn07nfso60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsojkxL_lY5NbpFKxk7Kg5WVD57krptiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307017618926-sdnorkt8q74sai06lt4gairn07nfso60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
